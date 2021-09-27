@@ -10,7 +10,7 @@ Here are two submodules in the repo:
 
 What you need to do?
 -
-After you clone this repo, You just need to run two commands:<br>
+After you clone this repo, you just need to run two commands:<br>
 (1) git submodule init<br>
 (2) git submodule update<br>
 Now, you should get the data and code.<br>
